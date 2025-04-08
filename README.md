@@ -4,12 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My GitHub Projects</title>
     <link rel="stylesheet" href="style.css">
-    <div class="top-banner">
-        <p>Your new text here</p>
-    </div>
 </head>
 <body>
     <header>
+         <div class="upper-banner">Your new text here</div>
         <h1>Welcome to My GitHub Portfolio</h1>
     </header>
     <section>
