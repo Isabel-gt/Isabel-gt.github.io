@@ -7,6 +7,7 @@
 </head>
 <body>
     <header>
+        <div class="upper-banner">Your new text here</div>
         <h1 class="upper-banner">Welcome to My GitHub Portfolio</h1>
         <h2>Isabel Garrido Tomasino</h2>
     </header>
