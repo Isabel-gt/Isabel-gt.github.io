@@ -9,7 +9,7 @@
     <header>
         <div class="upper-banner">Your new text here</div>
         <h1 class="upper-banner">Welcome to My GitHub Portfolio</h1>
-        <h2>Isabel Garrido Tomasino</h2>
+        <h2>Isabel Garrido Tomasini</h2>
     </header>
     <section>
         <h3>Featured Projects</h3>
