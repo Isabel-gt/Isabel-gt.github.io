@@ -7,13 +7,11 @@ body {
     background-color: #f4f4f4;
 }
 
-header {
-    background: #333 !important; /* Dark grey background */
-    color: white !important; /* White text color */
-    padding: 20px 0 !important; /* Padding for spacing inside the header */
-    text-align: center !important; /* Center the text horizontally */
-    width: 100% !important; /* Ensure the header is full width */
-    margin-top: 0 !important; /* Make sure there's no margin at the top */
+header, footer {
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
 }
 
 h1 {
