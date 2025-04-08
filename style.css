@@ -12,6 +12,7 @@ header {
     color: white; /* White text color */
     padding: 20px 0; /* Padding for spacing inside the header */
     text-align: center; /* Center the text horizontally */
+    width: 100%; /* Ensure the header is full width */
 }
 
 h1, h2 {
