@@ -15,11 +15,13 @@ header, footer {
 }
 
 .upper-banner {
-    background-color: #333; /* Dark grey to match the existing header */
-    color: #fff; /* White text for contrast */
-    text-align: center; /* Center the text horizontally */
-    padding: 20px 0; /* Add padding above and below the text */
-    font-size: 20px; /* Optional: Adjust the font size as needed */
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+    font-size: 24px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 
