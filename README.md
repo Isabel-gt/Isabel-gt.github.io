@@ -7,6 +7,9 @@
 </head>
 <body>
     <header>
+        <div class="top-banner">
+        <p>Your new text here</p>
+        </div>
         <h1>Welcome to My GitHub Portfolio</h1>
     </header>
     <section>
