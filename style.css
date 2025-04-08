@@ -7,6 +7,13 @@ body {
     background-color: #f4f4f4;
 }
 
+header, footer {
+    background: #333;
+    color: #FFF;
+    padding: 10px 20px;
+    text-align: center;
+}
+
 .upper-banner {
     background-color: #333; /* Dark grey to match the existing header */
     color: #fff; /* White text for contrast */
@@ -15,13 +22,6 @@ body {
     font-size: 20px; /* Optional: Adjust the font size as needed */
 }
 
-
-header, footer {
-    background: #333;
-    color: #FFF;
-    padding: 10px 20px;
-    text-align: center;
-}
 
 h1 {
     color: #FFF; /* Text color is white */
