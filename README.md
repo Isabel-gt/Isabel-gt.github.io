@@ -7,11 +7,11 @@
 </head>
 <body>
     <header>
-        <div class="upper-banner">Your new text here</div>
-        <h1>Welcome to My GitHub Portfolio</h1>
+        <h1 class="upper-banner">Your new text here</h1>
+        <h2>Welcome to My GitHub Portfolio</h2>
     </header>
     <section>
-        <h2>Featured Projects</h2>
+        <h3>Featured Projects</h3>
         <div class="projects">
             <div class="project">
                 <h3><a href="https://github.com/yourusername/project1">Project 1</a></h3>
