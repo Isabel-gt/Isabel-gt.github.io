@@ -26,6 +26,10 @@ header, footer {
 h1 {
     color: #FFF; /* Text color is white */
     background-color: #333; /* Background color is dark gray */
+    font-size: 24px; /* Sets the size of the font */
+    font-weight: bold; /* Makes the font bold */
+    padding: 20px; /* Adds padding inside the h1 element */
+    border-radius: 5px; /* Rounds the corners */
 }
 
 h2 {
