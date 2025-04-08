@@ -16,8 +16,13 @@ header {
     margin-top: 0 !important; /* Make sure there's no margin at the top */
 }
 
-h1, h2 {
-    color: #333;
+h1 {
+    color: #FFF; /* Text color is white */
+    background-color: #333; /* Background color is dark gray */
+}
+
+h2 {
+    color: #333;  /* Lighter gray text color for h2 */
 }
 
 .projects {
