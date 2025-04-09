@@ -59,19 +59,33 @@ h3 {
     display: flex;
     justify-content: space-around;
     padding: 20px;
+    background-color: #f9f9f9; /* Light gray background for the whole projects section */
 }
 
 .project {
     background: white;
     color: #333;
-    padding: 20px;
+    padding: 30px; /* Increased padding */
     margin: 20px;
     width: 30%;
-    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Slightly darker shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.project:hover {
+    transform: scale(1.05); /* Scale up effect on hover */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3); /* Deeper shadow on hover */
+}
+
+.project h3 {
+    font-size: 1.25em; /* Larger font size for titles */
+    margin-bottom: 5px; /* Space between the title and description */
 }
 
 .project p {
-    color: #333; /* Dark grey, ensuring visibility against the white background */
+    font-size: 0.95em; /* Smaller font size for descriptions */
+    line-height: 1.4; /* Improved line height for readability */
 }
 
 a {
