@@ -28,7 +28,7 @@
         </div>
     </section>
     <footer>
-        <p>Copyright © Your Name 2023</p>
+        <p>Copyright © Isabel Garrido Tomasini 2022</p>
     </footer>
 </body>
 </html>
