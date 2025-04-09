@@ -70,6 +70,10 @@ h3 {
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
 }
 
+.project p {
+    color: #333; /* Dark grey, ensuring visibility against the white background */
+}
+
 a {
     text-decoration: none;
     color: #333;
