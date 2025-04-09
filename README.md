@@ -13,7 +13,7 @@
     <section>
         <h3>Featured Projects</h3>
         <div class="projects">
-            <div class="project">
+            <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <h3><a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git">Sepsis Diagnosis Prediction</a></h3>
                 <p style="color: black;">Application of data anlaysis and machine learning to design an end-to end machine learning pipeline for predicting binary outcomes from a                      real-world dataset.</p>
             </div>
