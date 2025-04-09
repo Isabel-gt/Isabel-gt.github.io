@@ -14,8 +14,8 @@
         <h3>Featured Projects</h3>
         <div class="projects">
             <div class="project">
-                <h3><a href="[https://github.com/yourusername/project1](https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git)">Sepsis Diagnosis Prediction</a></h3>
-                <p>Application of data anlaysis and machine learning to design an end-to end machine learning pipeline for predicting binary outcomes from a real-world dataset</p>
+                <h3><a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git">Sepsis Diagnosis Prediction</a></h3>
+                <p>Application of data anlaysis and machine learning to design an end-to end machine learning pipeline for predicting binary outcomes from a                      real-world dataset</p>
             </div>
             <div class="project">
                 <h3><a href="https://github.com/yourusername/project2">Project 2</a></h3>
