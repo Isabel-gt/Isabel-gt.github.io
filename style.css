@@ -33,8 +33,11 @@ header, footer {
 }
 
 h1.upper-banner {
-    /* ... otros estilos ... */
-    margin-bottom: 0; /* Elimina el margen inferior del h1 */
+    margin-bottom: 0;
+}
+
+header h2 {
+    margin-top: 5px; /* Puedes ajustar este valor según necesites */
 }
 
 h1 {
@@ -46,9 +49,14 @@ h1 {
     border-radius: 5px; /* Rounds the corners */
 }
 
-header h2 {
-    /* ... otros estilos que tengas para el h2 ... */
-    margin-top: 0; /* Elimina el margen superior del h2 */
+h2 {
+    color: #FFF; /* Text color is white */
+    background-color: #333; /* Background color is dark gray */
+    font-size: 24px; /* Sets the size of the font */
+    font-weight: bold; /* Makes the font bold */
+    padding: 20px; /* Adds padding inside the h1 element */
+    border-radius: 5px; /* Rounds the corners */
+    
 }
 
 h3 {
