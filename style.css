@@ -49,6 +49,7 @@ h2 {
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
     border-radius: 5px; /* Rounds the corners */
+    border-bottom: none;
 }
 
 h3 {
