@@ -33,7 +33,7 @@ header, footer {
 }
 
 h1.upper-banner {
-    margin-bottom: 10;
+    margin-bottom: -10;
 }
 
 header h2 {
