@@ -8,7 +8,7 @@
 <body>
     <header>
         <h1 class="upper-banner">Welcome to My GitHub Portfolio</h1>
-        <h2 class="upper-banner">Isabel Garrido Tomasini</h2>
+        <h2 id="id">Isabel Garrido Tomasini</h2>
     </header>
     <section>
         <h3>Featured Projects</h3>
