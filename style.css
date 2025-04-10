@@ -70,6 +70,11 @@ h3 {
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
 }
 
+.project:hover {
+    transform: scale(1.05); /* Scales up the box */
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3); /* Darker shadow on hover */
+}
+
 .project p {
     color: #333; /* Dark grey, ensuring visibility against the white background */
 }
