@@ -20,7 +20,11 @@ header, footer {
 
 
 
-.upper-banner {
+
+
+h1.upper-banner {
+    /* Estilos para el h1 */
+    margin-bottom: 0;
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -28,11 +32,11 @@ header, footer {
     font-size: 24px;
     width: 100%;
     box-sizing: border-box;
+    /* ... otros estilos ... */
 }
 
-#my-name-banner {
-    /* Estilos específicos para el h2 con el ID my-name-banner */
-    /* Por ejemplo: */
+h2.upper-banner {
+    /* Estilos para el h2 */
     margin-top: 0;
     padding-bottom: 0;
     /* ... otros estilos ... */
