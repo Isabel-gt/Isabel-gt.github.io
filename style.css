@@ -30,8 +30,8 @@ header, footer {
     box-sizing: border-box;
 }
 
-h2.upper-banner {
-    /* Estilos específicos para el h2 con la clase upper-banner */
+#my-name-banner {
+    /* Estilos específicos para el h2 con el ID my-name-banner */
     /* Por ejemplo: */
     margin-top: 0;
     padding-bottom: 0;
