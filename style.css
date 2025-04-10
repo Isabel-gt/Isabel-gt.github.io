@@ -32,13 +32,6 @@ header, footer {
     box-sizing: border-box;
 }
 
-h1.upper-banner {
-    margin-bottom: -10;
-}
-
-header h2 {
-    margin-top: 50px; /* Puedes ajustar este valor según necesites */
-}
 
 h1 {
     color: #FFF; /* Text color is white */
