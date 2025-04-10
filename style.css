@@ -1,237 +1,125 @@
 body {
-
-    font-family: Arial, sans-serif;
-
-    line-height: 1.6;
-
-    margin: 0;
-
-    padding: 0;
-
-    color: #FFF;
-
-    background-color: #f4f4f4;
-
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    background-color: #f4f4f4;
 }
-
-
 
 header, footer {
-
-    background: #333;
-
-    color: #FFF;
-
-    padding: 10px 20px;
-
-    text-align: center;
-
+    background: #333;
+    color: #FFF;
+    padding: 10px 20px;
+    text-align: center;
 }
-
 
 
 .intro-banner {
-
-    background-color: #333; /* Dark grey */
-
-    color: #fff; /* White text */
-
-    text-align: center;
-
-    padding: 20px 0; /* More padding for a bigger box */
-
-    font-size: 20px; /* Larger text */
-
+    background-color: #333; /* Dark grey */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 20px 0; /* More padding for a bigger box */
+    font-size: 20px; /* Larger text */
 }
-
-
 
 .upper-banner {
-
-    background-color: #333;
-
-    color: #fff;
-
-    text-align: center;
-
-    padding: 40px 20px;
-
-    font-size: 24px;
-
-    width: 100%;
-
-    box-sizing: border-box;
-
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+    font-size: 24px;
+    width: 100%;
+    box-sizing: border-box;
 }
-
-
-
 
 
 h1 {
-
-    color: #FFF; /* Text color is white */
-
-    background-color: #333; /* Background color is dark gray */
-
-    font-size: 24px; /* Sets the size of the font */
-
-    font-weight: bold; /* Makes the font bold */
-
-    padding: 20px; /* Adds padding inside the h1 element */
-
-    border-radius: 5px; /* Rounds the corners */
-
+    color: #FFF; /* Text color is white */
+    background-color: #333; /* Background color is dark gray */
+    font-size: 24px; /* Sets the size of the font */
+    font-weight: bold; /* Makes the font bold */
+    padding: 20px; /* Adds padding inside the h1 element */
+    border-radius: 5px; /* Rounds the corners */
 }
-
-
 
 h2 {
-
-    border-bottom: none;
-
-    text-decoration: none;
-
-    box-shadow: none;
-
-}*/
-
-
+    color: #FFF; /* Text color is white */
+    background-color: #333; /* Background color is dark gray */
+    font-size: 24px; /* Sets the size of the font */
+    font-weight: bold; /* Makes the font bold */
+    padding: 0px; /* Adds padding inside the h1 element */
+    border-radius: 0px; /* Rounds the corners */
+    
+}
 
 h3 {
-
-    color: #333;  /* Lighter gray text color for h2 */
-
+    color: #333;  /* Lighter gray text color for h2 */
 }
-
-
 
 .projects {
-
-    display: flex;
-
-    justify-content: space-around;
-
-    padding: 20px;
-
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
 }
-
-
 
 /*.project {
-
-    background: white;
-
-    color: #333;
-
-    padding: 20px;
-
-    margin: 20px;
-
-    width: 30%;
-
-    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
-
+    background: white;
+    color: #333;
+    padding: 20px;
+    margin: 20px;
+    width: 30%;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
 }*/
 
-
-
 .project {
-
-    background: white;
-
-    color: #333;
-
-    padding: 30px;
-
-    margin: 20px;
-
-    width: 30%;
-
-    border-radius: 10px;
-
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
-
-    display: block; /* Ensures the link fills the box */
-
-    text-decoration: none; /* No underline */
-
-    color: inherit; /* Inherits text color */
-
+    background: white;
+    color: #333;
+    padding: 30px;
+    margin: 20px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
+    display: block; /* Ensures the link fills the box */
+    text-decoration: none; /* No underline */
+    color: inherit; /* Inherits text color */
 }
-
-
 
 .project:hover {
-
-    transform: scale(1.05);
-
-    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
-
-    background-color: #fafafa; /* Lighter background on hover */
-
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+    background-color: #fafafa; /* Lighter background on hover */
 }
-
-
 
 @media (prefers-reduced-motion: reduce) {
-
-    .project, .project:hover {
-
-        transform: none;
-
-        transition: none;
-
-    }
-
+    .project, .project:hover {
+        transform: none;
+        transition: none;
+    }
 }
-
-
 
 .project p {
-
-    color: #333; /* Dark grey, ensuring visibility against the white background */
-
+    color: #333; /* Dark grey, ensuring visibility against the white background */
 }
-
-
 
 .project a {
-
-    text-decoration: none; /* Removes underline from links */
-
-    color: inherit; /* Inherits text color from parent, useful for dark themes */
-
-    display: block; /* Makes the link fill the entire container */
-
-    height: 100%; /* Ensures the link covers the whole area of the project box */
-
+    text-decoration: none; /* Removes underline from links */
+    color: inherit; /* Inherits text color from parent, useful for dark themes */
+    display: block; /* Makes the link fill the entire container */
+    height: 100%; /* Ensures the link covers the whole area of the project box */
 }
-
-
 
 a {
-
-    text-decoration: none;
-
-    color: #333;
-
+    text-decoration: none;
+    color: #333;
 }
-
-
 
 a:hover {
-
-    text-decoration: underline;
-
+    text-decoration: underline;
 }
-
-
 
 footer {
-
-    margin-top: 20px;
-
+    margin-top: 20px;
 }
+
