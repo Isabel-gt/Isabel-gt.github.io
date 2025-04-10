@@ -74,6 +74,13 @@ h3 {
     color: #333; /* Dark grey, ensuring visibility against the white background */
 }
 
+.project a {
+    text-decoration: none; /* Removes underline from links */
+    color: inherit; /* Inherits text color from parent, useful for dark themes */
+    display: block; /* Makes the link fill the entire container */
+    height: 100%; /* Ensures the link covers the whole area of the project box */
+}
+
 a {
     text-decoration: none;
     color: #333;
