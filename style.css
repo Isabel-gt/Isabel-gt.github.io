@@ -22,7 +22,7 @@ header, footer {
 
 
 
-h1.upper-banner {
+upper-banner {
     /* Estilos para el h1 */
     margin-bottom: 0;
     background-color: #333;
@@ -35,7 +35,7 @@ h1.upper-banner {
     /* ... otros estilos ... */
 }
 
-h2.upper-banner {
+id {
     /* Estilos para el h2 */
     margin-top: 0;
     padding-bottom: 0;
