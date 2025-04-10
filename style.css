@@ -50,6 +50,8 @@ h2 {
     padding: 20px; /* Adds padding inside the h1 element */
     border-radius: 5px; /* Rounds the corners */
     border-bottom: none;
+    text-decoration: none;
+    box-shadow: none;
 }
 
 h3 {
