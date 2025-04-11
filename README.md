@@ -21,7 +21,7 @@
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
             <a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
             <h3>Sepsis Diagnosis Prediction</h3>
-            <p style="color: black; text-align: justify;">Application of data analysis to design an end-to-end machine learning pipeline for predicting binary outcomes from a real-world dataset.</p>
+            <p style="color: black; text-align: center;">Application of data analysis to design an end-to-end machine learning pipeline for predicting binary outcomes from a real-world dataset.</p>
         </a>
     </div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
