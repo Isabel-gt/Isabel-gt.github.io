@@ -32,7 +32,7 @@ upper-banner {
 }
 
 h3.section-title {
-    color: #333;
+    color: #2C2C2C;
     font-size: 24px;
     text-align: center;
     margin-bottom: 20px; /* Space between the title and the projects */
@@ -41,7 +41,7 @@ h3.section-title {
 
 h1 {
     color: #FFF; /* Text color is white */
-    background-color: #333; /* Background color is dark gray */
+    background-color: #2C2C2C; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -51,7 +51,7 @@ h1 {
 
 h2 {
     color: #FFF; /* Text color is white */
-    background-color: #333; /* Background color is dark gray */
+    background-color: #2C2C2C; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -62,7 +62,7 @@ h2 {
 
 
 h3 {
-    color: #333;  /* Lighter gray text color for h2 */
+    color: #2C2C2C;  /* Lighter gray text color for h2 */
 }
 
 
