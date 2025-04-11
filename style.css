@@ -60,6 +60,12 @@ h2 {
     border-color: #333;
 }
 
+p {
+    color: #FFF; /* Text color is white */
+    background-color: #333; /* Background color is dark gray */
+    font-size: 24px; /* Sets the size of the font */
+    font-weight: bold; /* Makes the font bold */
+
 h3 {
     color: #333;  /* Lighter gray text color for h2 */
 }
