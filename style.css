@@ -114,7 +114,7 @@ h3 {
 
 @media (max-width: 1024px) {
     .project {
-        width: calc(33.33% - 13.33px); /* 2 per row on tablets */
+        width: calc(33.33% - 13.33px); /* ← Not 2 per row */
     }
 }
 
