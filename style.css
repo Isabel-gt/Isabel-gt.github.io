@@ -52,8 +52,12 @@ h2 {
 }
 
 
-h3 {
-    color: #333;  /* Lighter gray text color for h2 */
+h3.section-title {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px; /* Space between the title and the projects */
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1); /* Subtle text shadow for depth */
 }
 
 .projects {
