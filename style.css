@@ -149,10 +149,11 @@ h3 {
     color: black;
     text-align: justify;
     margin: 0;
-    writing-mode: horizontal-tb;
-    white-space: normal;       /* Allow wrapping */
-    overflow: visible;         /* Show full content */
-    text-overflow: unset;      /* Disable truncation */
+    max-height: 60px;            /* Adjust height as needed */
+    overflow-y: auto;            /* Enables scroll if needed */
+    white-space: normal;
+    text-overflow: ellipsis;
+    padding-right: 5px;          /* Space for scrollbar */
 }
 
 a {
