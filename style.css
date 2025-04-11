@@ -103,10 +103,25 @@ h3 {
 }
 
 .project a {
-    text-decoration: none; /* Removes underline from links */
-    color: inherit; /* Inherits text color from parent, useful for dark themes */
-    display: block; /* Makes the link fill the entire container */
-    height: 100%; /* Ensures the link covers the whole area of the project box */
+    text-decoration: none;
+    color: inherit; /* Inherits color from parent elements */
+    display: block;
+    height: 100%;
+    background: #fff; /* Background color for the project link/card */
+    padding: 20px; /* Padding inside each project card */
+}
+
+.project h3 {
+    margin-top: 0; /* Removes default margin */
+    margin-bottom: 10px; /* Space between the title and the paragraph */
+    text-align: center; /* Center-align the title */
+    color: #333; /* Darker text for better readability */
+}
+
+.project p {
+    color: black;
+    text-align: justify;
+    margin: 0; /* Removes default margin */
 }
 
 a {
