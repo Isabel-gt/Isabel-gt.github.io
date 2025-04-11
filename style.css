@@ -124,7 +124,7 @@ h3 {
 }
 
 .project p {
-    color: #333; /* Dark grey, ensuring visibility against the white background */
+    color: #2C2C2C; /* Dark grey, ensuring visibility against the white background */
     writing-mode: horizontal-tb;
 }
 
@@ -141,7 +141,7 @@ h3 {
     margin-top: 0; /* Removes default margin */
     margin-bottom: 10px; /* Space between the title and the paragraph */
     text-align: center; /* Center-align the title */
-    color: #333; /* Darker text for better readability */
+    color: #2C2C2C; /* Darker text for better readability */
 }
 
 .project p {
