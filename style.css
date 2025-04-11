@@ -61,6 +61,9 @@ h2 {
 }
 
 
+h3 {
+    color: #333;  /* Lighter gray text color for h2 */
+}
 
 
 .projects {
