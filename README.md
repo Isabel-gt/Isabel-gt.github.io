@@ -11,7 +11,7 @@
         <p style="color: white; font-weight: bold; font-size: 20px; font-family: Arial, sans-serif;">Isabel Garrido Tomasini</p>
     </header>
     <section>
-        <!--<h3 class="section-title">Featured Projects</h3>
+        <h3 class="section-title">Featured Projects</h3>
         <!--<div class="projects">
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <h3><a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git">Sepsis Diagnosis Prediction</a></h3>
