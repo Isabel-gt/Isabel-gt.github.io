@@ -1,6 +1,6 @@
-/* {
-    border: 1px solid red; /* Adds a red border around every element */
-/* }*/
+{
+    border: 1px solid red; 
+}
 
 body {
     font-family: Arial, sans-serif;
@@ -20,15 +20,13 @@ header, footer {
 
 
 
-
-
 upper-banner {
     /* Estilos para el h1 */
     margin-bottom: 0;
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 40px 20px;
+    /*padding: 40px 20px;*/
     font-size: 24px;
     width: 100%;
     box-sizing: border-box;
