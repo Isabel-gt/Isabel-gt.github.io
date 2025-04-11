@@ -113,7 +113,7 @@ h3 {
 
 @media (max-width: 1024px) {
     .project {
-        width: 45%; /* 2 per row on tablets */
+        width: 30%; /* 2 per row on tablets */
     }
 }
 
