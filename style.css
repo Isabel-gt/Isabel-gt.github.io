@@ -10,7 +10,7 @@ body {
 
 
 header, footer {
-    background: #444C55;
+    background: #333;
     color: #FFF;
     padding: 10px 20px;
     text-align: center;
@@ -21,7 +21,7 @@ header, footer {
 upper-banner {
     /* Estilos para el h1 */
     margin-bottom: 0;
-    background-color: #444C55;
+    background-color: #333;
     color: #fff;
     text-align: center;
     /*padding: 40px 20px;*/
@@ -32,7 +32,7 @@ upper-banner {
 }
 
 h3.section-title {
-    color: #444C55;
+    color: #333;
     font-size: 24px;
     text-align: center;
     margin-bottom: 20px; /* Space between the title and the projects */
@@ -41,7 +41,7 @@ h3.section-title {
 
 h1 {
     color: #FFF; /* Text color is white */
-    background-color: #444C55; /* Background color is dark gray */
+    background-color: #333; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -51,7 +51,7 @@ h1 {
 
 h2 {
     color: #FFF; /* Text color is white */
-    background-color: #444C55; /* Background color is dark gray */
+    background-color: #333; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -62,7 +62,7 @@ h2 {
 
 
 h3 {
-    color: #444C55;  /* Lighter gray text color for h2 */
+    color: #333;  /* Lighter gray text color for h2 */
 }
 
 
@@ -125,7 +125,7 @@ h3 {
 }
 
 .project p {
-    color: #444C55; /* Dark grey, ensuring visibility against the white background */
+    color: #333; /* Dark grey, ensuring visibility against the white background */
     writing-mode: horizontal-tb;
 }
 
@@ -142,7 +142,7 @@ h3 {
     margin-top: 0; /* Removes default margin */
     margin-bottom: 10px; /* Space between the title and the paragraph */
     text-align: center; /* Center-align the title */
-    color: #444C55; /* Darker text for better readability */
+    color: #333; /* Darker text for better readability */
 }
 
 .project p {
@@ -157,7 +157,7 @@ h3 {
 
 a {
     text-decoration: none;
-    color: #444C55;
+    color: #333;
 }
 
 a:hover {
