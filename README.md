@@ -29,8 +29,8 @@
                 <p>Dive into a comprehensive analysis of over 1.9 million bike-sharing trips. This project reveals how data analytics and visualizations have been utilized to optimize fleet distribution and support targeted marketing strategies.</p>
             </div>
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-                <h3><a href="https://github.com/yourusername/project3">Project 3</a></h3>
-                <p>This project is about...</p>
+                <h3><a href="https://github.com/Isabel-gt/Crowdfunding-ETL.git">Crowdfunding ETL Campaign Insights</a></h3>
+                <p>Explore a detailed analysis of a crowdfunding dataset, featuring a PostgreSQL database for real-time campaign performance tracking and a SQL analysis to identify funding gaps to optimize marketing strategies</p>
             </div>
         </div>
     </section>
