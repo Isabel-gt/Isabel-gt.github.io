@@ -69,7 +69,7 @@ h3 {
 .projects {
     display: flex;
     flex-wrap: wrap;   /* This allows the boxes to go to the next line */
-    gap: 10px;         /* Prefer 'gap' over 'grid-gap' for Flexbox */
+    gap: 8px;         /* Prefer 'gap' over 'grid-gap' for Flexbox */
     padding: 20px;
     justify-content: center; /* Optional: centers the boxes horizontally */
 }
@@ -95,6 +95,7 @@ h3 {
     display: block; /* Ensures the link fills the box */
     text-decoration: none; /* No underline */
     color: inherit; /* Inherits text color */
+    box-sizing: border-box;
 }
 
 .project:hover {
@@ -113,7 +114,7 @@ h3 {
 
 @media (max-width: 1024px) {
     .project {
-        width: 32%; /* 2 per row on tablets */
+        width: calc(33.33% - 13.33px); /* 2 per row on tablets */
     }
 }
 
