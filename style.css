@@ -67,7 +67,9 @@ h3 {
 
 
 .projects {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates three columns */
+    grid-gap: 20px;
     justify-content: space-around;
     padding: 20px;
 }
