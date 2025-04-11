@@ -1,7 +1,3 @@
-*{
-    border: 1px solid red; 
-}
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -33,12 +29,6 @@ upper-banner {
     /* ... otros estilos ... */
 }
 
-id {
-    /* Estilos para el h2 */
-    margin-top: 0;
-    padding-bottom: 0;
-    /* ... otros estilos ... */
-}
 
 h1 {
     color: #FFF; /* Text color is white */
@@ -60,11 +50,6 @@ h2 {
     border-color: #333;
 }
 
-p {
-    color: #FFF; /* Text color is white */
-    background-color: #333; /* Background color is dark gray */
-    font-size: 24px; /* Sets the size of the font */
-    font-weight: bold; /* Makes the font bold */
 
 h3 {
     color: #333;  /* Lighter gray text color for h2 */
