@@ -10,7 +10,7 @@ body {
 
 
 header, footer {
-    background: #37474F;
+    background: #333;
     color: #FFF;
     padding: 10px 20px;
     text-align: center;
@@ -21,7 +21,7 @@ header, footer {
 upper-banner {
     /* Estilos para el h1 */
     margin-bottom: 0;
-    background-color: #37474F;
+    background-color: #333;
     color: #fff;
     text-align: center;
     /*padding: 40px 20px;*/
@@ -32,7 +32,7 @@ upper-banner {
 }
 
 h3.section-title {
-    color: #37474F;
+    color: #333;
     font-size: 24px;
     text-align: center;
     margin-bottom: 20px; /* Space between the title and the projects */
@@ -41,7 +41,7 @@ h3.section-title {
 
 h1 {
     color: #FFF; /* Text color is white */
-    background-color: #37474F; /* Background color is dark gray */
+    background-color: #333; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -51,7 +51,7 @@ h1 {
 
 h2 {
     color: #FFF; /* Text color is white */
-    background-color: #37474F; /* Background color is dark gray */
+    background-color: #333; /* Background color is dark gray */
     font-size: 24px; /* Sets the size of the font */
     font-weight: bold; /* Makes the font bold */
     padding: 20px; /* Adds padding inside the h1 element */
@@ -156,7 +156,7 @@ h3 {
 
 a {
     text-decoration: none;
-    color: #2C2C2C;
+    color: #333;
 }
 
 a:hover {
