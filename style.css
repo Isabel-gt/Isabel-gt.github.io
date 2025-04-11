@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #FFF;
-    background-color: #f4f4f4;
+    background-color: ligth blue;
 }
 
 
@@ -68,8 +68,10 @@ h3 {
 
 .projects {
     display: flex;
-    grid-gap: 20px;
+    flex-wrap: wrap;   /* This allows the boxes to go to the next line */
+    gap: 20px;         /* Prefer 'gap' over 'grid-gap' for Flexbox */
     padding: 20px;
+    justify-content: center; /* Optional: centers the boxes horizontally */
 }
 
 /*.project {
