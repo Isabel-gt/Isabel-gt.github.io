@@ -48,6 +48,12 @@
         <p style="color: black; text-align: center;">Evaluate the investment potential of a surf shop in Hawaii through weather pattern analysis. Leveraged SQLite and SQLAlchemy for data extraction, and Flask for web app development.</p>
         </a>
     </div>
+        <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <a href="https://github.com/Isabel-gt/Credit_Risk_Analysis.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+        <h3>Credit Risk Evaluation</h3>
+        <p style="color: black; text-align: center;">Assessed six machine learning models to predict credit risk using Python, Pandas, and Scikit-learn. Compared performance based on accuracy, precision, and recall.</p>
+        </a>
+    </div>
         </div>
     </section>
     <footer>
