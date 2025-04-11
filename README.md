@@ -25,8 +25,8 @@
         </a>
     </div>
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-                <h3><a href="https://github.com/yourusername/project2">Project 2</a></h3>
-                <p>This project is about...</p>
+                <h3><a href="https://github.com/Isabel-gt/Bikesharing_Challenge.git">Bike-Sharing Usage Optimization Analysis</a></h3>
+                <p>Dive into a comprehensive analysis of over 1.9 million bike-sharing trips. This project reveals how data analytics and visualizations have been utilized to optimize fleet distribution and support targeted marketing strategies.</p>
             </div>
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <h3><a href="https://github.com/yourusername/project3">Project 3</a></h3>
