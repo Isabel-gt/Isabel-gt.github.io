@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #FFF;
-    background-color: ligth blue;
+    background-color: #f4f4f4;
 }
 
 
@@ -107,6 +107,19 @@ h3 {
     .project, .project:hover {
         transform: none;
         transition: none;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .project {
+        width: 45%; /* 2 per row on tablets */
+    }
+}
+
+@media (max-width: 600px) {
+    .project {
+        width: 90%; /* 1 per row on mobile */
     }
 }
 
