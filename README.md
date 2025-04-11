@@ -21,16 +21,16 @@
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
             <a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
             <h3>Sepsis Diagnosis Prediction</h3>
-            <p style="color: black; text-align: justify;">Application of data analysis and machine learning to design an end-to-end machine learning pipeline for predicting binary outcomes from a real-world dataset.</p>
+            <p style="color: black; text-align: justify;">Application of data analysis to design an end-to-end machine learning pipeline for predicting binary outcomes from a real-world dataset.</p>
         </a>
     </div>
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <h3><a href="https://github.com/Isabel-gt/Bikesharing_Challenge.git">Bike-Sharing Usage Optimization Analysis</a></h3>
-                <p style="color: black; text-align: justify;"Dive into a comprehensive analysis of over 1.9 million bike-sharing trips. Data analytics and visualizations have been used to optimize fleet distribution and support targeted marketing strategies.</p>
+                <p style="color: black; text-align: justify;">Analysis of over 1.9 million bike-sharing trips. Data analytics and visualizations have been used to optimize fleet distribution and support targeted marketing strategies.</p>
             </div>
             <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
                 <h3><a href="https://github.com/Isabel-gt/Crowdfunding-ETL.git">Crowdfunding ETL Campaign Insights</a></h3>
-                <p style="color: black; text-align: justify;">Explore an analysis of a crowdfunding dataset, featuring a PostgreSQL database for real-time campaign performance tracking and a SQL analysis to identify funding gaps to optimize marketing strategies.</p>
+                <p style="color: black; text-align: justify;">Analysis of a crowdfunding dataset, featuring a PostgreSQL database for real-time campaign performance tracking and a SQL analysis to optimize marketing strategies.</p>
             </div>
         </div>
     </section>
