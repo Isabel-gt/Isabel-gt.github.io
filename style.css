@@ -148,11 +148,11 @@ h3 {
 .project p {
     color: black;
     text-align: justify;
-    margin: 0; /* Removes default margin */
+    margin: 0;
     writing-mode: horizontal-tb;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;       /* Allow wrapping */
+    overflow: visible;         /* Show full content */
+    text-overflow: unset;      /* Disable truncation */
 }
 
 a {
