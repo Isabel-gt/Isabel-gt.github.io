@@ -69,7 +69,7 @@ h3 {
 .projects {
     display: flex;
     flex-wrap: wrap;   /* This allows the boxes to go to the next line */
-    gap: 20px;         /* Prefer 'gap' over 'grid-gap' for Flexbox */
+    gap: 10px;         /* Prefer 'gap' over 'grid-gap' for Flexbox */
     padding: 20px;
     justify-content: center; /* Optional: centers the boxes horizontally */
 }
@@ -113,7 +113,7 @@ h3 {
 
 @media (max-width: 1024px) {
     .project {
-        width: 10%; /* 2 per row on tablets */
+        width: 32%; /* 2 per row on tablets */
     }
 }
 
