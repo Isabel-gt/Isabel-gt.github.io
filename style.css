@@ -87,14 +87,14 @@ h3 {
     background: white;
     color: #2C2C2C;
     padding: 30px;
-    margin: 20px;
-    width: 30%;
+    width: calc(33.33% - 40px); /* Subtract margin from width */
+    margin: 10px; /* Smaller margin makes layout easier */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and shadow */
-    display: block; /* Ensures the link fills the box */
-    text-decoration: none; /* No underline */
-    color: inherit; /* Inherits text color */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: block;
+    text-decoration: none;
+    color: inherit;
     box-sizing: border-box;
 }
 
