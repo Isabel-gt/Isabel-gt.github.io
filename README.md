@@ -38,7 +38,7 @@
     </div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         <a href="https://github.com/Isabel-gt/Amazon_Vine_Analysis.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-        <h3>Crowdfunding ETL Campaign Insights</h3>
+        <h3>Amazon Vine Analysis</h3>
         <p style="color: black; text-align: center;">review bias in the Amazon Vine program using PySpark and AWS. Analyzed two datasets to determine disparity in 5-star review percentages between paid and unpaid reviews.</p>
         </a>
     </div>
