@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #FFF;
-    background-color: #757575;
+    background-color: #888888;
 }
 
 
@@ -111,6 +111,7 @@ h3 {
 
 .project p {
     color: #333; /* Dark grey, ensuring visibility against the white background */
+    writing-mode: horizontal-tb;
 }
 
 .project a {
@@ -133,6 +134,7 @@ h3 {
     color: black;
     text-align: justify;
     margin: 0; /* Removes default margin */
+    writing-mode: horizontal-tb;
 }
 
 a {
