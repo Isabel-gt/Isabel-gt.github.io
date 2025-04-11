@@ -26,17 +26,21 @@
   </a>
 </div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-            <a href="https://github.com/Isabel-gt/Bikesharing_Challenge.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-            <h3>Bike-Sharing Optimization</h3>
-            <p style="color: black; text-align: center;">Analysis of over 1.9 million bike-sharing trips. Data analytics and visualizations have been used to optimize fleet distribution and support targeted marketing strategies.</p>
-        </a>
+              <a href="https://github.com/Isabel-gt/Bikesharing_Challenge.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+                <h3>Bike-Sharing Optimization</h3>
+                <div class="project-desc">
+              <p style="color: black; text-align: center;">Analysis of over 1.9 million bike-sharing trips. Data analytics and visualizations have been used to optimize fleet distribution and support targeted marketing strategies.</p>
     </div>
+  </a>
+</div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <a href="https://github.com/Isabel-gt/Crowdfunding-ETL.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-        <h3>Crowdfunding ETL Campaign Insights</h3>
-        <p style="color: black; text-align: center;">Analysis of a crowdfunding dataset, featuring a PostgreSQL database for real-time campaign performance tracking and a SQL analysis to optimize marketing strategies.</p>
-        </a>
+              <a href="https://github.com/Isabel-gt/Crowdfunding-ETL.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+                <h3>Crowdfunding ETL Campaign Insights</h3>
+                <div class="project-desc">
+              <p style="color: black; text-align: center;">Analysis of a crowdfunding dataset, featuring a PostgreSQL database for real-time campaign performance tracking and a SQL analysis to optimize marketing strategies.</p>
     </div>
+  </a>
+</div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         <a href="https://github.com/Isabel-gt/Amazon_Vine_Analysis.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
         <h3>Amazon Vine Analysis</h3>
