@@ -39,6 +39,17 @@ h1 {
     border-radius: 5px; /* Rounds the corners */
 }
 
+p {
+    position: absolute; /* Position the paragraph absolutely inside the relative container */
+    bottom: 10px; /* Position it near the bottom, 10px from the bottom edge */
+    width: 100%; /* Make the paragraph full width of the container */
+    text-align: center; /* Center the text horizontally */
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
 h2 {
     color: #FFF; /* Text color is white */
     background-color: #333; /* Background color is dark gray */
