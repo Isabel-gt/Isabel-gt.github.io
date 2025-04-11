@@ -39,7 +39,13 @@
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         <a href="https://github.com/Isabel-gt/Amazon_Vine_Analysis.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
         <h3>Amazon Vine Analysis</h3>
-        <p style="color: black; text-align: center;">review bias in the Amazon Vine program using PySpark and AWS. Analyzed two datasets to determine disparity in 5-star review percentages between paid and unpaid reviews.</p>
+        <p style="color: black; text-align: center;">Analyzed two datasets of Amazon Vine to determine disparity in 5-star review percentages between paid and unpaid reviews using PySpark and AWS.</p>
+        </a>
+    </div>
+        <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <a href="https://github.com/Isabel-gt/surfs_up.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+        <h3>Surf Shop Feasibility Analysis</h3>
+        <p style="color: black; text-align: center;">Evaluate the investment potential of a surf shop in Hawaii through weather pattern analysis. Leveraged SQLite and SQLAlchemy for data extraction, and Flask for web app development.</p>
         </a>
     </div>
         </div>
