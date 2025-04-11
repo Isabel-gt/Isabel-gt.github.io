@@ -68,7 +68,7 @@
     </div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         <a href="https://github.com/Isabel-gt/Final_Project.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-        <h3>Diabetes Risk Prediction Tool (Team Project)</h3>
+        <h3>Diabetes Risk Prediction Tool</h3>
         <p style="color: black; text-align: center;">Collaborated on a full-stack health analytics tool to predict diabetes risk using clinical indicators. Implemented machine learning models (logistic regression and deep neural networks via TensorFlow).</p>
         </a>
     </div>
@@ -98,7 +98,7 @@
     </div>
         <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         <a href="https://github.com/Isabel-gt/School_District_Analysis.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-        <h3>School Performance & Funding Breakdown</h3>
+        <h3>School Performance & Funding</h3>
         <p style="color: black; text-align: center;">Analysis of standardized test scores, funding, and enrollment across charter and public schools in a district.</p>
         </a>
     </div>
