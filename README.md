@@ -75,15 +75,6 @@
 </div>
 
 <div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-              <a href="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
-                <h3>Sepsis Diagnosis Prediction</h3>
-                <div class="project-desc">
-              <p style="color: black; text-align: center;">Developed a machine learning pipeline in Python to predict sepsis in over 27,000 patients using time-series clinical data. Included data cleaning, feature engineering, and model training with XGBoost.</p>
-    </div>
-  </a>
-</div>
-
-<div class="project" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               <a href="https://github.com/Isabel-gt/Final_Project.git" style="text-decoration: none; color: inherit; display: block; height: 100%;">
                 <h3>Diabetes Risk Prediction Tool</h3>
                 <div class="project-desc">
