@@ -135,6 +135,9 @@ h3 {
     text-align: justify;
     margin: 0; /* Removes default margin */
     writing-mode: horizontal-tb;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 a {
